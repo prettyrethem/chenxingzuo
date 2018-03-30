@@ -1,0 +1,24 @@
+.homeBox{
+    width:100%;
+    height: 100%;
+    position: relative;
+}
+.header{
+    width:100%;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.product_List{
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+    height:365px;
+    justify-content: space-around;
+    overflow-y: scroll;
+}
+.verso{
+    height:340px;
+    border-top: 1px solid #ccc;
+}

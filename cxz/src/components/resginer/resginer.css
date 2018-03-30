@@ -1,0 +1,23 @@
+.header{
+    height:45px;
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.phone,.pwd,.yzm{
+    width:100%;
+    height:45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    margin:10px auto;
+    display: block;
+    width:100px;
+    height:30px;
+    background: skyblue;
+    color:#fff;
+    border:0;
+}

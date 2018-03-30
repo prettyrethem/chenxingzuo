@@ -1,0 +1,29 @@
+.good_Item{
+    width:45%;  
+}
+.goods_detail{
+    height: 30px;
+    width:90%;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+    line-height: 30px;
+    text-align: center;
+}
+.good_Item_Img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pic_cart{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    height:30px;
+    align-items: center;
+}
+.good_Item img{
+    height:100px;
+    display: block;
+    width:100px;
+}

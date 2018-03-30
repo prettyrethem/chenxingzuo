@@ -1,0 +1,13 @@
+.content{
+    height: 100px;
+    width:200px;
+    text-align: center;
+    line-height: 100px;
+    background: rgba(0, 0, 0, .5);
+    color:#fff;
+    font-weight: 800;
+    position: absolute;
+    top:50%;
+    left:24%;
+    z-index: 100;
+}

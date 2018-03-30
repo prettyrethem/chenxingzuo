@@ -1,0 +1,13 @@
+.mine{
+    width:200px;
+    height:200px;
+    display: block;
+    border-radius: 50%;
+    margin:30px auto;
+}
+p{
+    width:100%;
+    height:30px;
+    text-align: center;
+    line-height: 30px;
+}
